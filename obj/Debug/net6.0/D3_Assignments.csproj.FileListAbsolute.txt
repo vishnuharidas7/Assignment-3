@@ -1,0 +1,15 @@
+D:\D3\D3_Assignments\bin\Debug\net6.0\D3_Assignments.exe
+D:\D3\D3_Assignments\bin\Debug\net6.0\D3_Assignments.deps.json
+D:\D3\D3_Assignments\bin\Debug\net6.0\D3_Assignments.runtimeconfig.json
+D:\D3\D3_Assignments\bin\Debug\net6.0\D3_Assignments.dll
+D:\D3\D3_Assignments\bin\Debug\net6.0\D3_Assignments.pdb
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.csproj.AssemblyReference.cache
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.AssemblyInfoInputs.cache
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.AssemblyInfo.cs
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.csproj.CoreCompileInputs.cache
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.dll
+D:\D3\D3_Assignments\obj\Debug\net6.0\refint\D3_Assignments.dll
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.pdb
+D:\D3\D3_Assignments\obj\Debug\net6.0\D3_Assignments.genruntimeconfig.cache
+D:\D3\D3_Assignments\obj\Debug\net6.0\ref\D3_Assignments.dll
